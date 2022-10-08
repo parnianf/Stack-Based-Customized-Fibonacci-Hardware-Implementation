@@ -1,0 +1,247 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\CE@UT\term 5\CAD\CA\CA1\trunk\trunk\sim
+vALU
+Z1 !s10a 1637172398
+Z2 IOnRK[20dZVcjQM;MWRRRI0
+Z3 VCE[2@eQ_Ja2cNVDH5217D1
+Z4 dD:\CE@UT\term 5\CAD\CA\CA1\trunk\trunk\sim
+Z5 w1637172398
+Z6 8../src/hdl/ALU.v
+Z7 F../src/hdl/ALU.v
+L0 3
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 o+acc -source -O0
+Z10 !s92 +acc -source +define+SIM -O0
+Z11 n@a@l@u
+Z12 !s100 Y9oW;AW2KK5@:Q=[VCIO>2
+Z13 !s108 1637174347.341000
+Z14 !s107 ../src/hdl/ALU.v|
+Z15 !s90 -reportprogress|300|+acc|-incr|-source|+define+SIM|../src/hdl/ALU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vComparator
+Z16 !s10a 1637172432
+Z17 Ih_4?IFn=Ha]3OGgPRgJE53
+Z18 V1?ib]M;Nb<;FhYj6[kc8f2
+R4
+Z19 w1637172432
+Z20 8../src/hdl/Comparator.v
+Z21 F../src/hdl/Comparator.v
+L0 3
+R8
+r1
+31
+R9
+R10
+Z22 n@comparator
+Z23 !s100 BSQ53Qn_GA]kjm3dF9c^T2
+Z24 !s108 1637174516.491000
+Z25 !s107 ../src/hdl/Comparator.v|
+Z26 !s90 -reportprogress|300|+acc|-incr|-source|+define+SIM|../src/hdl/Comparator.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vController
+Z27 !s10a 1637173197
+Z28 I;P;k6lKGO8<T_ZRcDQ;;11
+Z29 ViW?>OKj[ZUPMfUgKafLDT2
+R4
+Z30 w1637173197
+Z31 8../src/hdl/Controller.v
+Z32 F../src/hdl/Controller.v
+L0 3
+R8
+r1
+31
+R9
+R10
+Z33 n@controller
+Z34 !s100 Fz7=DM_aJ;7MheajCY4NZ2
+Z35 !s108 1637174517.591000
+Z36 !s107 ../src/hdl/Controller.v|
+Z37 !s90 -reportprogress|300|+acc|-incr|-source|+define+SIM|../src/hdl/Controller.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDatapath
+Z38 !s10a 1637172923
+Z39 IaF4g<]1^bV^0L[Dh?][N50
+Z40 VH_SL9;W;]g7D;Z9L?nDVQ2
+R4
+Z41 w1637172923
+Z42 8../src/hdl/Datapath.v
+Z43 F../src/hdl/Datapath.v
+L0 3
+R8
+r1
+31
+R9
+R10
+Z44 n@datapath
+Z45 !s100 `hXU[RmeU@YlYR^fL8@M30
+Z46 !s108 1637174517.901000
+Z47 !s107 ../src/hdl/Datapath.v|
+Z48 !s90 -reportprogress|300|+acc|-incr|-source|+define+SIM|../src/hdl/Datapath.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFibonacci
+Z49 !s10a 1637172854
+Z50 I?@c^?mU>0NeeHicUck?oL0
+Z51 VCWTlKK@J8Ug<kMB`C>>a90
+R4
+Z52 w1637172854
+Z53 8../src/hdl/Fibonacci.v
+Z54 F../src/hdl/Fibonacci.v
+L0 3
+R8
+r1
+31
+R9
+R10
+Z55 n@fibonacci
+Z56 !s100 Cb6<3ezUC4Og?b3:h;zTU3
+Z57 !s108 1637174517.799000
+Z58 !s107 ../src/hdl/Fibonacci.v|
+Z59 !s90 -reportprogress|300|+acc|-incr|-source|+define+SIM|../src/hdl/Fibonacci.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFibonacci_TB
+Z60 !s10a 1637177292
+Z61 IdQn1o7o2OoJI=jSAIEaW[3
+Z62 VRAmkk@^6EMN?W6lB:>PY61
+R4
+Z63 w1637177292
+Z64 8./tb/Fibonacci_TB.v
+Z65 F./tb/Fibonacci_TB.v
+L0 3
+R8
+r1
+31
+Z66 !s90 -reportprogress|300|+acc|-incr|-source|+incdir+../src/inc|+define+SIM|./tb/Fibonacci_TB.v|
+R9
+Z67 !s92 +acc -source +incdir+../src/inc +define+SIM -O0
+Z68 n@fibonacci_@t@b
+Z69 !s100 BEIoMOR>HG:9dm7:CzDJn0
+Z70 !s108 1637177305.039000
+Z71 !s107 ./tb/Fibonacci_TB.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMultiplexer2to1
+Z72 !s10a 1637172356
+Z73 IXYJHd7kJAD8f3Fi1aMa7h0
+Z74 V7K;?2:DBK@hdBSc4@kKMW0
+R4
+Z75 w1637172356
+Z76 8../src/hdl/Multiplexer.v
+Z77 F../src/hdl/Multiplexer.v
+L0 3
+R8
+r1
+31
+Z78 !s108 1637174347.156000
+Z79 !s107 ../src/hdl/Multiplexer.v|
+Z80 !s90 -reportprogress|300|+acc|-incr|-source|+define+SIM|../src/hdl/Multiplexer.v|
+R9
+R10
+Z81 n@multiplexer2to1
+Z82 !s100 Be=G:LGRGdd@KVClcUI]D2
+!i10b 1
+!s85 0
+!s101 -O0
+vMultiplexer6to1
+R72
+Z83 IZam@@XMD^_VR>jT=W]O=O1
+Z84 VoSmI^fCaHJMY475Q=K4`00
+R4
+R75
+R76
+R77
+L0 7
+R8
+r1
+31
+R78
+R79
+R80
+R9
+R10
+Z85 n@multiplexer6to1
+Z86 !s100 KBHVjQSM;9aOUK5>kj:Th1
+!i10b 1
+!s85 0
+!s101 -O0
+vRegister
+Z87 !s10a 1637172288
+Z88 IMS^VzfhR4MV7n]HJ@eTe43
+Z89 V57hAg:^e;Z=TUiC0gZJ]03
+R4
+Z90 w1637172288
+Z91 8../src/hdl/Register.v
+Z92 F../src/hdl/Register.v
+L0 2
+R8
+r1
+31
+R9
+R10
+Z93 n@register
+Z94 !s100 F^iAI4;FJAX:Q7>LTNQ=62
+Z95 !s108 1637174347.031000
+Z96 !s107 ../src/hdl/Register.v|
+Z97 !s90 -reportprogress|300|+acc|-incr|-source|+define+SIM|../src/hdl/Register.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vShifter1bit
+Z98 !s10a 1637172467
+Z99 Ig6GlH^FBXQoI]=OmWI23c3
+Z100 VogABC]8mjGDb>F9;]=O6d2
+R4
+Z101 w1637172467
+Z102 8../src/hdl/Shifter.v
+Z103 F../src/hdl/Shifter.v
+L0 3
+R8
+r1
+31
+R9
+R10
+Z104 n@shifter1bit
+Z105 !s100 4k16k1K1?TQGK=FKURk^b3
+Z106 !s108 1637174517.435000
+Z107 !s107 ../src/hdl/Shifter.v|
+Z108 !s90 -reportprogress|300|+acc|-incr|-source|+define+SIM|../src/hdl/Shifter.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vStack
+Z109 !s10a 1637172208
+Z110 IoC`a<HRE3HbV^DS2?T0=?3
+Z111 VcPjVimm3MM2UD4Cz=E_lT1
+R4
+Z112 w1637172208
+Z113 8../src/hdl/Stack.v
+Z114 F../src/hdl/Stack.v
+L0 2
+R8
+r1
+31
+R9
+Z115 n@stack
+Z116 !s100 NjVbl71R4^o=fU6M2lzb;2
+Z117 !s108 1637174346.867000
+Z118 !s107 ../src/hdl/Stack.v|
+Z119 !s90 -reportprogress|300|+acc|-incr|-source|+define+SIM|../src/hdl/Stack.v|
+R10
+!i10b 1
+!s85 0
+!s101 -O0
