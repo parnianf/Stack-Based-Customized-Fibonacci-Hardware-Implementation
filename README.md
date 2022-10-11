@@ -3,8 +3,9 @@ The goal of this project is to implement a customized fibonacci function using a
 
 ```c++
 long fib(long n) {
-    if(n <= 1) return 1;
-    else{
+    if(n <= 1) 
+        return 1;
+    else {
         if(n > N/2)
             return((n-1) * fib(n-1) + (n-2) * fib(n-2));
         else 
