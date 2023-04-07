@@ -25,5 +25,10 @@ We implemeneted the mentioned function recursively by a stack. The implemented s
 
 * output signal:
   * is_empty: is true if the stack is empty.
-
+  
+### How to run?
+To run the tcl script file, use this command (in Modelsim): 
+```
+do sim_top.tcl
+```
 Contributor: [Paria Khoshtab](https://github.com/Theparia/) 
